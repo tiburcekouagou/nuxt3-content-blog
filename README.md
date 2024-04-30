@@ -1,75 +1,32 @@
-# Nuxt 3 Minimal Starter
+# Mon Blog Personnel
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Ce projet est un blog personnel créé avec Nuxt.js et Nuxt Content.
 
-## Setup
+## Aperçu
 
-Make sure to install the dependencies:
+![Aperçu du Blog](public/preview.png)
+
+## Installation
+
+1. Clonez ce dépôt :
 
 ```bash
-# npm
+git clone https://github.com/VotreNom/mon-blog-personnel.git
+```
+
+2. Installez les dépendances:
+
+```bash
+cd mon-blog-personnel
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+3. Lancez l'application en mode développement:
 
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+## Contact
 
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Pour toute question ou commentaire, n'hésitez pas à me contacter à l'adresse e-mail suivante: kouagoutiburce@gmail.com
