@@ -1,10 +1,15 @@
 ---
 title: "Hello Titi"
 date: 2023-10-06
-draft: false
+draft: true
 tags: ["hello", "world"]
 thumbnail: "/img/hello-world.jpg"
+slug: "hello-world"
 ---
+
+::btn
+Hello World
+::
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in mauris at magna viverra sodales. Phasellus egestas sem vitae orci gravida sodales. Suspendisse laoreet bibendum massa, nec lacinia purus sagittis quis. Nam tellus arcu, dignissim a risus non, malesuada feugiat sapien. Sed magna nulla, vehicula nec cursus eu, pretium porta tortor. Aenean convallis pulvinar tortor ac scelerisque. Aliquam congue pretium metus malesuada congue. Sed nunc elit, elementum in nisi vel, porta ornare libero. Morbi posuere tortor arcu, nec volutpat nisl lacinia vel. Nunc ultricies dolor nec tortor iaculis, ac aliquet risus maximus. Etiam molestie, elit a lobortis laoreet, lectus quam eleifend metus, sit amet tincidunt neque ex at ligula. Aliquam accumsan metus nec quam tristique, sit amet cursus ex rhoncus. Phasellus non tincidunt nulla, et congue nibh. Mauris et elit elit. Aenean risus neque, gravida a ullamcorper id, tempus vel ligula. Nulla quis augue nec risus pharetra lacinia nec ac nunc.
 

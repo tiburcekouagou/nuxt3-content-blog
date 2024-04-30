@@ -3,7 +3,9 @@
     <!-- Header -->
     <header class="mt-8 mb-4 flex justify-between items-c">
       <div>
-        <h1 class="text-2xl font-semibold">Personal Blog</h1>
+        <h1 class="text-2xl font-semibold">
+          <NuxtLink to="/">Personal Blog</NuxtLink>
+        </h1>
         <p class="text-gray-500">Learn programming easily !</p>
       </div>
 
@@ -16,3 +18,9 @@
     <!-- ./ Main Content -->
   </div>
 </template>
+
+<style>
+body {
+  @apply bg-gray-100
+}
+</style>
